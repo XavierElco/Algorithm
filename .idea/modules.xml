@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithm-Prac.iml" filepath="$PROJECT_DIR$/Algorithm-Prac.iml" />
       <module fileurl="file://$PROJECT_DIR$/P01BinaryPrinter/P01BinaryPrinter.iml" filepath="$PROJECT_DIR$/P01BinaryPrinter/P01BinaryPrinter.iml" />
       <module fileurl="file://$PROJECT_DIR$/P02BasicSortingAlgorithm/P02BasicSortingAlgorithm.iml" filepath="$PROJECT_DIR$/P02BasicSortingAlgorithm/P02BasicSortingAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P03BinarySearch/P03BinarySearch.iml" filepath="$PROJECT_DIR$/P03BinarySearch/P03BinarySearch.iml" />
     </modules>
   </component>
 </project>
